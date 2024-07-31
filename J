@@ -1,0 +1,1 @@
+http://cloud.cdngold.pro:80/get.php?username=96366647547590&password=30516353983118&type=m3u_plus&output=ts
